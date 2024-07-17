@@ -1,0 +1,9 @@
+[
+  { "Username": "Admin", "Password": "Admin", "Description": "Admin" },
+  { "Username": "4860", "Password": "FWT", "Description": "Alper Frink", "Tag": "(AF)" },
+  { "Username": "9583", "Password": "FWT", "Description": "Martin Diefenbach", "Tag": "(MD)" },
+  { "Username": "5206", "Password": "FWT", "Description": "Moritz Braukmeier", "Tag": "(MB)" },
+  { "Username": "8338", "Password": "FWT", "Description": "Simon Reichel", "Tag": "(SR)" },
+  { "Username": "7069", "Password": "FWT", "Description": "Arno Kügler", "Tag": "(AK)" },
+  { "Username": "test", "Password": "test", "Description": "Test User" }
+]
